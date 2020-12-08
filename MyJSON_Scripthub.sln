@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyJSON_Scripthub", "MyJSON_Scripthub\MyJSON_Scripthub.csproj", "{5C5A06FD-3772-4097-8390-DB3785CD9788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C5A06FD-3772-4097-8390-DB3785CD9788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5A06FD-3772-4097-8390-DB3785CD9788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5A06FD-3772-4097-8390-DB3785CD9788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5A06FD-3772-4097-8390-DB3785CD9788}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {771FBF7E-0277-4C4B-BD53-7A3B9D8312E9}
+	EndGlobalSection
+EndGlobal
